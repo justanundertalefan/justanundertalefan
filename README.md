@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @justanundertalefan
-- 👀 I’m interested in undertale and friday night funkin
-- 🌱 I’m currently learning how to code in lua
 - SOCIALS: 
 - [Roblox](https://www.roblox.com/users/1283399629/profile)
 - [Youtube](https://www.youtube.com/channel/UCZ8ksspt_oYeJN-Opw622Nw)
